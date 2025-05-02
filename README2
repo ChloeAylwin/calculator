@@ -5,3 +5,5 @@ findViewById<Button>(R.id.btnClear).setOnClickListener {
     number2.text.clear()
     result.text = ""
 }
+
+![Image_Alt](https://github.com/ChloeAylwin/calculator/blob/01aa0c8bbe1e271bf4559a0d6ade4a9569df3180/Screenshot%202025-05-02%20182516.png)
