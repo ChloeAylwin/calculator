@@ -1,0 +1,7 @@
+My added feature to my calculator.
+
+findViewById<Button>(R.id.btnClear).setOnClickListener {
+    number1.text.clear()
+    number2.text.clear()
+    result.text = ""
+}
